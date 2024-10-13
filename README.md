@@ -1,2 +1,0 @@
-# .github
-About Shadow Vale
